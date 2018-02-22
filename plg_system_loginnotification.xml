@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<updates>
+  <update>
+    <name>System - Login Notification</name>
+    <description>Joomla Login Notification and Logs Plugin</description>
+    <element>loginnotification</element>
+    <version>1.0.0</version>
+    <downloads>
+      <downloadurl type="full" format="zip">http://ivane.work/ivaneapps/login-notification-for-joomla</downloadurl>
+    </downloads>
+    <type>plugin</type>
+	<folder>system</folder>
+    <maintainer>Ivane</maintainer>
+    <maintainerurl>http://ivane.work/ivaneapps</maintainerurl>
+    <section>Updates</section>
+    <targetplatform name="joomla" version=".*"/>
+  </update>
+</updates>
